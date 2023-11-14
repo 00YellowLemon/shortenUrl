@@ -93,7 +93,7 @@ export default function Content() {
             </div>
         </div>
         <div className="w-full bg-gray-700">
-            <div className="w-full bg-[url('./bg-boost-desktop.svg')] text-center p-16 flex flex-col gap-8 items-center justify-center">
+            <div className="w-full bg-[url('/bg-boost-desktop.svg')] text-center p-16 flex flex-col gap-8 items-center justify-center">
                 <h2 className="font-bold text-white text-4xl">
                     Boost your links today
                 </h2>
