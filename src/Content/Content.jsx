@@ -11,12 +11,12 @@ export default function Content() {
                 <img src="./illustration-working.svg" alt="" className="w-full h-auto"/>
             </div>
             <div className="w-2/4 pt-28 text-left sm:order-1 pl-32">
-                <h1 className="text-7xl font-bold text-gray-700 leading-tight">
-                    More than just <br  className="xldden sm:block" /> shorter links
+                <h1 className="text-6xl font-bold text-gray-700 leading-tight">
+                    More than just shorter links
                 </h1>
                 <p className="text-lg font-bold text-zinc-400 pb-8">
                     Build your brand's recognitionlgnd get detailed insights
-                    <br  className="hidden sm:block" /> 
+
                     on how your links are performing.
                 </p>
                 <button className="text-white text-bold capitalize outline-none bg-teal-300 rounded-full px-5 py-2 w-40">
@@ -45,7 +45,7 @@ export default function Content() {
                 statistics dashboard.
             </p>
             <div className="flex  gap-10 relative items-center">
-                <div className="absolute w-2/3 h-2 bg-teal-400 top-2/4">
+                <div className="absolute w-3/4 h-2 bg-teal-400 top-2/4">
 
                 </div>
 
