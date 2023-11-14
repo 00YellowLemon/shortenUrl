@@ -26,7 +26,7 @@ export default function Content() {
             
             <div className="w-full sm:px-32  absolute bottom-0 translate-y-2/4">
                 <div className=" w-full bg-gray-700 rounded-lg ">
-                    <form action="" className="flex w-full rounded-xl bg-[url('./bg-shorten-desktop.svg')] gap-6 p-8">
+                    <form action="" className="flex w-full rounded-xl bg-[url('/bg-shorten-desktop.svg')] gap-6 p-8">
                         <input type="text" className="grow rounded-lg outline-none px-4" placeholder="Shorten a link here..." />
                         <button className="grow-0 h-full outline-none cursor-pointer text-white font-bold capitalize bg-teal-400 py-3 px-7 rounded-lg" >Shorten it!</button>
                     </form>
