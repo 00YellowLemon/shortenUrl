@@ -65,7 +65,7 @@ export default function Content() {
                 <div className="rounded-lg bg-white relative pt-14 px-4 text-left w-80 sm:-mb-16">
 
                     <div className="absolute top-0 left-6 bg-gray-700 rounded-full w-16 h-16 flex justify-center items-center -translate-y-2/4">
-                        <img src="./icon-brand-recognition.svg" alt="" className="w-3/5 h-auto" />
+                        <img src="./icon-detailed-records.svg" alt="" className="w-3/5 h-auto" />
                     </div>
                     <h3 className='text-xl text-neutral-700 font-bold pb-6'>
                         Detailed Records
@@ -77,10 +77,10 @@ export default function Content() {
                 </div>
                 <div className="rounded-lg bg-white relative pt-14 px-4 text-left w-80 sm:-mb-32">
                     <div className="absolute top-0 left-6 bg-gray-700 rounded-full w-16 h-16 flex justify-center items-center -translate-y-2/4">
-                        <img src="./icon-brand-recognition.svg" alt="" className="w-3/5 h-auto" />
+                        <img src="./icon-fully-customizable.svg" alt="" className="w-3/5 h-auto" />
                     </div>
                     <h3 className='text-xl text-neutral-700 font-bold pb-6'>
-                        Full Customizable
+                        Fully Customizable
                     </h3>
                     <p className='text-lg text-zinc-300 pb-8 '>
                         Improved brand awareness and content discoverability
